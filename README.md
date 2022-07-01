@@ -1,9 +1,11 @@
 # Yajamin_Jaime_Tarea-4
 
 1.	OBJETIVOS
+
 Comprender los diferentes métodos de análisis mediante los teoremas de Thevenin y Norton como los métodos tradicionales vistos anteriormente en clase e identificar las ventajas y desventajas de usar cada método Aplicando de forma práctica los conceptos fundamentales del teorema de Thevenin y Norton. Con esto lograr relacionar estas magnitudes entre sí, permitiendo la resolución de problemas numéricos sencillos para el buen desarrollo de la materia, se desarrolló la lectura y comprensión del libro Floyd donde se complementó y reforzo temas vistos en clase para una mejor ejecución del presente informe.
 
 Objetivos específicos 
+
 •	Revisar lecturas referentes a las recomendadas en las cuales incluye Floyd, para una comprensión de los temas relacionados a este informe.
 
 •	Diseñar circuitos DC puramente resistivos, determinando el voltaje y la corriente de la resistencia de carga RL.
@@ -388,7 +390,39 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
  Seccion 8-8 Conversiones delta a Y
 17.	En la figura 8-88, convierta cada red delta en una red Y.
  
-
+ a) R1=(560)(1M)/3.06=183kΩ
+ 
+ R2=(1.5m)(1M)/3.06=490KΩ
+ 
+  R3=(560K)(1.5M)/3.06=275KΩ
+  
+  b) R1=(1)(2.2)/5.9=373mΩ
+ 
+ R2=(2.2)(2.7)/5.9=1.01Ω
+ 
+  R3=(1)(2.7)/5.9=4.58mΩ
 18.	Determine todas las corrientes que circulan en el circuito de la figura 8-90
-   SC
+   
+Rt=14.3kc
+
+iT=136V/14.3K=9.5mA
+
+It=43.56/59.78=6.94mA
+
+Vb=136-(6.94)(10)=66.6v
+
+vc=136-(2.56)(39)=36.16v
+
+VIDEO
+
+CONCLUSIONES
+
+Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudó mucho a reforzar y complementar Thevenin y Norton donde se tuvo mas claro la relación entre circuitos en serie y circuitos en paralelo donde también se logro identificar los tipos de fuentes con esto podemos concluir que se realizo un buen trabajo con la comprensión de lecturas de libros y lo visto en clase.
+
+Bibliografía
+Clouds, L. (12 de 03 de 2016). FISICALAB. Obtenido de FISICALAB: https://electronicaonline.net/circuito-electrico/circuito-en-serie-y-paralelo/#:~:text=En%20un%20circuito%20en%20serie,conjuntos%20de%20nodos%20el%C3%A9ctricamente%20comunes.
+Douglas-Young. (25 de 05 de 2018. AREATECNOLOGIA https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html 
+Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
+
+
 
