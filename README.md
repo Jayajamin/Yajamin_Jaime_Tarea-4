@@ -407,6 +407,8 @@ vc=136-(2.56)(39)=36.16v
 
 VIDEO
 
+https://youtu.be/g73F0AAGySM
+
 CONCLUSIONES
 
 Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudó mucho a reforzar y complementar Thevenin y Norton donde se tuvo mas claro la relación entre circuitos en serie y circuitos en paralelo donde también se logro identificar los tipos de fuentes con esto podemos concluir que se realizo un buen trabajo con la comprensión de lecturas de libros y lo visto en clase.
