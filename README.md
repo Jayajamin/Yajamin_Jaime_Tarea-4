@@ -376,18 +376,9 @@ SECCIÓN 8–6 Teorema de Norton
 ![image](https://user-images.githubusercontent.com/106272493/176806703-6d9b1bee-a732-45cf-b351-2918bd4b6e62.png)
 ![image](https://user-images.githubusercontent.com/106272493/176806717-78be98c2-dc53-4f11-aae7-7c9790758b8f.png)
 
-SECCIÓN 8–7 Teorema de transferencia de potencia máxima
-
-15.	En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
- 
-
-
-
-16.	¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
- 
-
 
  Seccion 8-8 Conversiones delta a Y
+ 
 17.	En la figura 8-88, convierta cada red delta en una red Y.
  
  a) R1=(560)(1M)/3.06=183kΩ
@@ -401,6 +392,7 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
  R2=(2.2)(2.7)/5.9=1.01Ω
  
   R3=(1)(2.7)/5.9=4.58mΩ
+  
 18.	Determine todas las corrientes que circulan en el circuito de la figura 8-90
    
 Rt=14.3kc
