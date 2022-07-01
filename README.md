@@ -375,6 +375,7 @@ SECCIÓN 8–6 Teorema de Norton
 ![image](https://user-images.githubusercontent.com/106272493/176806717-78be98c2-dc53-4f11-aae7-7c9790758b8f.png)
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
 15.	En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
  
 
@@ -389,5 +390,5 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
  
 
 18.	Determine todas las corrientes que circulan en el circuito de la figura 8-90
-   
+   SC
 
